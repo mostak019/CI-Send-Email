@@ -1,3 +1,5 @@
+<?php
+
 //Send email
 		$email_data['get_studentinfo'] = $get_studentinfo;
 		$email_data['full_name'] = $name;
